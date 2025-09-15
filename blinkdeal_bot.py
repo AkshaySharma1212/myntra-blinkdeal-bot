@@ -1,8 +1,8 @@
 import time
 import requests
 
-BOT_TOKEN = "your_bot_token"
-CHAT_ID = "your_chat_id"
+BOT_TOKEN = "8435760656:AAFsmGdidpMJwquiGg--Lzt0hDobJMTG13w"
+CHAT_ID = "8166130855"
 URL = "https://www.myntra.com/sale"
 
 def send_telegram(msg):
